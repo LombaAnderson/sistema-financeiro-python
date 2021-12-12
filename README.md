@@ -4,10 +4,11 @@
 # Sobre o projeto
 Sistema simples, porém interessante que tem por objetivo organizar as finanças desenvolvido com Python. Esse projeto tem origem de um curso de aula de programação do professor André Vicente. Através
 desse sistema é possível adicionar informações e gerenciar gastos utilizando a lógica de programação aqui implementada. Com o sistema-financeiro-python se pode registrar dados, apagá-los,
-verificar saldo, editar seus dados, listar suas transações com um só clique como se fosse uma conculta em um caixa eletrônico.
+verificar saldo, editar seus dados, listar suas transações com um só clique como se fosse uma consulta em caixa eletrônico.
 
 # Tecnologias utilizadas
 -Python
+
 -Json
 
 
