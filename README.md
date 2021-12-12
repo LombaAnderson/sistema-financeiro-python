@@ -30,5 +30,6 @@ Agradeço sobretudo ao meu Senhor dos Exércitos, a minha esposa e a essa aula m
 
 # Créditos
 Prof. André Vicente 
+
 Aula bônus
 https://www.udemy.com/course/programarcompython/?referralCode=2657DAE91BF990DE780E
