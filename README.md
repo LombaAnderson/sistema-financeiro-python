@@ -26,4 +26,4 @@ https://www.lombanderson.epizy.com
 
 # Agradecimentos
 
-Agradeço sobre tudo ao meu Senhor dos Exércitos, a minha esposa e a essas aulas maravilhosas do professor André.
+Agradeço sobretudo ao meu Senhor dos Exércitos, a minha esposa e a essas aulas maravilhosas do professor André.
